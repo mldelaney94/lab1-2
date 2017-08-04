@@ -1,6 +1,6 @@
 print("Hello World")
 def fizz_buzz ():
-    for i in range (0, 100): #displays up to number entered
+    for i in range (0, 101): #displays up to number entered
         msg = ''
         if i % 3 == 0:
             msg += "Fizz"
